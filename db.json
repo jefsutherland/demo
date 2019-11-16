@@ -1,5 +1,5 @@
-	{ "resid": 39432, "site": "A01", "class": "RV" },
-	{ "resid": 23493, "site": "A02", "class": "RV" },
-	{ "resid": 23934, "site": "A05", "class": "RV" },
-	{ "resid": 92342, "site": "C01", "class": "Camping Cabin" },
+	{ "resid": 39432, "site": "A01", "class": "RV" }
+	{ "resid": 23493, "site": "A02", "class": "RV" }
+	{ "resid": 23934, "site": "A05", "class": "RV" }
+	{ "resid": 92342, "site": "C01", "class": "Camping Cabin" }
 	{ "resid": 23422, "site": "DC01", "class": "Deluxe Cabin"}
