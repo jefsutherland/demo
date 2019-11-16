@@ -25,5 +25,42 @@
       "site": "DC05",
 	  "class": "Dexluxe Cabin"
     }
-  ]
+  ],
+  "awesomeguitars": [
+	  {
+		"owner":"Alex",
+		"type" : "Electric"
+		"brand" : "Martin"
+		"purchased":"2018-01-03",
+		"price":75.35
+	  },
+	  {
+		"owner":"Alex",
+		"type" : "Acoustic"
+		"brand" : "Martin"
+		"purchased":"2019-05-02",
+		"price": 100.00
+	  },
+	  {
+		"owner":"Jef",
+		"type" : "Acoustic"
+		"brand" : "Alvarez"
+		"purchased":"2016-02-20",
+		"price": 65.98
+	  },
+	  {
+		"owner":"Alex",
+		"type" : "Electric"
+		"brand" : "Ibanez"
+		"purchased":"2017-03-03",
+		"price":200.52
+	  },
+	  {
+		"owner":"Alex",
+		"type" : "Electric"
+		"brand" : "Ibanez-Blue"
+		"purchased":"2016-12-01",
+		"price":300.50
+	  }
+    ]
 } 
