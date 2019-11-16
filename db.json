@@ -2,6 +2,4 @@
 	{ "resid": 23493, "site": "A02", "class": "RV" },
 	{ "resid": 23934, "site": "A05", "class": "RV" },
 	{ "resid": 92342, "site": "C01", "class": "Camping Cabin" },
-	{ "resid": 23422, "site": "DC01", "class": "Deluxe Cabin"},
-	{ "resid": 23432, "site":  null},
-	{ "resid": 23492, "site": null}
+	{ "resid": 23422, "site": "DC01", "class": "Deluxe Cabin"}
